@@ -1,0 +1,8 @@
+HeroesOfPymoli Analysis
+
+#The largest demographic is Males aged 20-24
+
+#Females are spending slightly more than Males per user
+
+#There is a positive trend between ‘Total Purchase Value’ of and the ‘Purchase Count’ of an item
+
